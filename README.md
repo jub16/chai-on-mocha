@@ -30,11 +30,11 @@ Open simple.js file and comment the first line in simple.js file like shown belo
 //var expect = require("chai").expect;  
 /*Expect is uses by chai*/
 
-describe ('A basic test', function(){
-	it('shouls pass when everthing is okay', function(){
+describe ('Simple test', function(){
+	it('will pass only if everything gonna be alright', function(){
 		expect(true).to.be.true;
 	});
-});
+})
 
 
 run
