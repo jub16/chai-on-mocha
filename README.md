@@ -28,7 +28,7 @@ quick note: -g to save package globally and -s to mark dependencies inside packa
 Open simple.js file and comment the first line in simple.js file like shown below-
 
 //var expect = require("chai").expect;  
-/*Expect is uses by chai*/
+/*Expect is used by chai*/
 
 describe ('Simple test', function(){
 	it('will pass only if everything gonna be alright', function(){
