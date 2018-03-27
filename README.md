@@ -6,7 +6,7 @@ For this you must be aware of Simple Node.JS javascript server and a basic knowl
 
 Now at first we clone this repo inside the pc
 
-$git clone https://github.com/jub16/chai-on-mocha.git
+$git clone https://github.com/jubs16/chai-on-mocha.git
 
 $cd chai-on-mocha
 
